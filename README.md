@@ -2,6 +2,6 @@
 
 Using the tweepy, twitter ApI we were able to aggregate tweets from major vities relating to Covid-19.
 
-Using machine learning methods via python modules such as sklearn, we made use of natural language processing to train models which would then predict twitter sentiments of tweets regarding covid 19 from differernt canadian cities. 
+Using machine learning methods via python modules such as sklearn, we made use of natural language processing to train models which would then predict twitter sentiments of tweets regarding covid 19 from different Canadian cities.
 
-Currently a work in progress. 
+Currently a work in progress.
