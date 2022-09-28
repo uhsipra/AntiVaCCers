@@ -1,4 +1,4 @@
-# Twitter Sentiment analysis of the Covid 19 pandemic in canaidan cities (Hackathon project)
+# Twitter Sentiment analysis of the Covid 19 pandemic in Canadian cities (Hackathon project)
 
 ![image](https://user-images.githubusercontent.com/37347053/192891590-7c1bd899-e5b3-4e6f-bede-f411aaf1795e.png)
 
